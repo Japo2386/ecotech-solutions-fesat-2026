@@ -1,0 +1,17 @@
+[
+    {
+        "id_producto": 1,
+        "nombre": "Panel Solar Eco 300W",
+        "precio": "$150000.00",
+        "stock": 10,
+        "tipo": "Panel Solar",
+        "potencia_w": 300,
+        "eficiencia": "21%"
+    },
+    {
+        "id_producto": 2,
+        "nombre": "Batería Ecológica",
+        "precio": "$85000.00",
+        "stock": 5
+    }
+]
